@@ -5,16 +5,16 @@ Ecma 7
 > variable
 > Operations
 > condition
-////////////////////////
-> github
 > localstorage
 > sessionStorage
 > cookies
 > String literals
+> github
 > if else
 > ternery Operations
 > Date
 > switch
+////////////////////////
 > array
 > regex
 > loops
@@ -32,7 +32,6 @@ Ecma 7
 > object 
 > Prototypes
 > Call/Apply
-> Github
 > package.JSON
 > npm
 > DoM
@@ -53,3 +52,27 @@ Ecma 7
 > Weather application
 > ajax
 > Baisc Jquery
+
+
+
+////Github////
+FirstTime
+>>>>>
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/gitat10.git
+git push -u origin master
+
+
+>>>>Next All Time<<<
+git add .
+git commit -m "first commit"
+git push
+
+
+>>>
+git checkout -b homepage
+git add .
+git commit -m "a"
+git push -u origin homepage
