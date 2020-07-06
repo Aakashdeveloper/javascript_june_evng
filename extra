@@ -17,19 +17,20 @@ Ecma 7
 > array
 > regex
 > loops
-////////////////////////
 > functions 
 > Es6
     > lat, const
     > maps,filter
 > Clousers
 > Hoisting
+////////////////////////
+> object 
 > Transpile
 > this 
 > Es6
     > classes
     > import export
-> object 
+
 > Prototypes
 > Call/Apply
 > package.JSON
