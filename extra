@@ -23,18 +23,17 @@ Ecma 7
     > maps,filter
 > Clousers
 > Hoisting
-////////////////////////
 > object 
-> Transpile
 > this 
-> Es6
-    > classes
-    > import export
-
-> Prototypes
-> Call/Apply
+> classes
+> JSON
+////////////////////////
+> Transpile
+> import export
 > package.JSON
 > npm
+> Prototypes
+> Call/Apply
 > DoM
 > Geolocation
 > Form validation
@@ -44,7 +43,6 @@ Ecma 7
 > promis
 > async await
 > Progress bar
-> JSON
 > palindrome
 > fabonicci
 > factorial
@@ -77,3 +75,8 @@ git checkout -b homepage
 git add .
 git commit -m "a"
 git push -u origin homepage
+
+
+package.JSON
+npm
+babel
