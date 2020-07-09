@@ -27,12 +27,12 @@ Ecma 7
 > this 
 > classes
 > JSON
-////////////////////////
 > Transpile
 > import export
 > package.JSON
 > npm
 > Prototypes
+////////////////////////
 > Call/Apply
 > DoM
 > Geolocation
@@ -77,6 +77,8 @@ git commit -m "a"
 git push -u origin homepage
 
 
-package.JSON
+package.JSON  > npm init -y
 npm
 babel
+
+npm i @babel/core @babel/preset-env @babel/register
