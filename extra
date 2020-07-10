@@ -32,16 +32,16 @@ Ecma 7
 > package.JSON
 > npm
 > Prototypes
-////////////////////////
-> Call/Apply
 > DoM
 > Geolocation
-> Form validation
-> Event
 > Calc
 > currenyConvertor
 > promis
 > async await
+////////////////////////
+> Call/Apply
+> Form validation
+> Event
 > Progress bar
 > palindrome
 > fabonicci
